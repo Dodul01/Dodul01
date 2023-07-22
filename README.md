@@ -10,6 +10,4 @@ Who is passionate about learning new technology, doing projects and solving real
 - JavaScript
 - React Js
 
-<div style="display:flex; align-items: center; justify-content: center;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodul01)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodul01)](https://github.com/anuraghazra/github-readme-stats)
