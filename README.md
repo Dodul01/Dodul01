@@ -11,8 +11,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dodul01" height="30" width="40" />
     </button>
 </a>
-
-<a href="[www.linkedin.com/in/mozammel-hoque-dodul-842272257](https://www.linkedin.com/in/mozammel-hoque-dodul-842272257)" target="blank">
+<!-- https://www.linkedin.com/in/mozammel-hoque-dodul-842272257 -->
+<a href="https://www.linkedin.com/in/mozammel-hoque-dodul-842272257" target="blank">
     <button style='background: #55489b; width: 100px; border:none; outline: none; padding:5px; border-radius: 10px; cursor:pointer;'>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozammel hoque dodul" height="30" width="40" />
     </button>
