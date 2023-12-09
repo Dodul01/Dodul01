@@ -60,7 +60,20 @@
 </p>
 
 
+# Projects
+## ZipZest 
+### <a href="https://difficult-wrench.surge.sh">Live Site</a> | <a href="https://github.com/Dodul01/ZipZest-Client">Client Repository</a> | <a href="https://github.com/Dodul01/ZipZest-Server">Server Repository</a>
+ZipZest is a food ordering website where user can order food.Only authorized user can add or update food which will store in mongoDB. Here product will show by brand name.
 
+Features
+- React
+- React Router Dom
+- Node JS
+- Express JS
+- MongoDB
+- Tailwind CSS
+- Daisy UI
+- Firebase Authentication
 
 
 # My Profile Status
