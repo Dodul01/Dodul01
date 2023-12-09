@@ -61,22 +61,14 @@
 
 
 
-<h1>Most Commit & Most Used Language</h1>
 
-<h1>My Profile Status</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodul01&theme=algolia)
+# My Profile Status
 
-<div style='display: flex; gap: 5px'>
+| Repos per Language | Most Commit Language |
+| --- | --- |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dodul01&theme=algolia) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dodul01&theme=algolia) |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dodul01&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dodul01&theme=algolia)
-</div>
-<div style='display: flex; gap: 5px'>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dodul01&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dodul01&theme=algolia&utcOffset=8)
-
-</div>
+| Stats | Productive Time |
+| --- | --- |
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dodul01&theme=algolia) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dodul01&theme=algolia&utcOffset=8) |
