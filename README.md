@@ -115,6 +115,28 @@ Technology
 - Moment JS
 - Firebase Authentication
 
+## TeamVist  
+### <a href="https://cluttered-beef.surge.sh">Live Site</a> | <a href="https://github.com/Dodul01/TeamVist-Client">Client Repository</a> | <a href="https://github.com/Dodul01/TeamVist-Server">Server Repository</a>
+BookEase is a hotel booking website where user can book room.Only authorized user can book room an review room. User can only review the room they have booked. Users review will be publicly available any authorized or unauthorized user can see the review and user image.
+
+Features
+- Email Password Authentication
+- User Managment Based On user Role
+- Protected/Private Route
+- Employee / Admin / HR Role
+- Track Work Progress
+- Verify Emploree
+- Make HR an Employee
+
+Technology
+- React
+- React Router Dom
+- Node JS
+- Express JS
+- MongoDB
+- Tailwind CSS
+- Firebase Authentication
+
 
 
 # My Profile Status
