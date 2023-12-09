@@ -66,6 +66,16 @@
 ZipZest is a food ordering website where user can order food.Only authorized user can add or update food which will store in mongoDB. Here product will show by brand name.
 
 Features
+- Email Password Authentication
+- Google Authentication
+- Protected/Private Route
+- User can order food
+- User can add food
+- User can update food
+- Dark Mode
+- My Cart Where User Can see ordered food list
+
+Technology
 - React
 - React Router Dom
 - Node JS
@@ -75,10 +85,39 @@ Features
 - Daisy UI
 - Firebase Authentication
 
+## BookEase  
+### <a href="https://bookease-537ed.web.app">Live Site</a> | <a href="https://github.com/Dodul01/BookEase-Client">Client Repository</a> | <a href="https://github.com/Dodul01/BookEase-Server">Server Repository</a>
+BookEase is a hotel booking website where user can book room.Only authorized user can book room an review room. User can only review the room they have booked. Users review will be publicly available any authorized or unauthorized user can see the review and user image.
+
+Features
+- Email Password Authentication
+- Google Authentication
+- Protected/Private Route
+- User see featured room
+- User book room
+- User filter rooms by price
+- User can cancel room booking
+- If user book the room user can review the room
+- User can update there booking date.
+- Career opppertunities.
+
+Technology
+- React
+- React Router Dom
+- Node JS
+- Express JS
+- MongoDB
+- Tailwind CSS
+- Daisy UI
+- AOS
+- React Hot Toast
+- Sweet Alert
+- Moment JS
+- Firebase Authentication
+
+
 
 # My Profile Status
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodul01&theme=algolia)
 
 | Repos per Language | Most Commit Language |
