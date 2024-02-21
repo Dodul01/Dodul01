@@ -1,6 +1,4 @@
-<a href="www.linkedin.com/in/mozammel-hoque-dodul-842272257">
-    <img style="border-radius: 10px" src="https://i.ibb.co/zh639kB/Moza.png" alt="Mozammel hoque linkdin profile" border="0">
-</a>
+<img style="border-radius: 10px" src="https://i.ibb.co/zh639kB/Moza.png" alt="Mozammel hoque linkdin profile" border="0">
 
 <h1>About Me</h1>
 <p align="">Hi 👋, I'm Mozammel Hoque Dodul</p>
