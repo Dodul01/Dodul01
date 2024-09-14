@@ -1,4 +1,4 @@
-<img src='https://i.postimg.cc/LqVzRHRL/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif' border='0' alt='190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8'/>
+<img src="https://i.ibb.co.com/QbkdmyF/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8" border="0">
 
 <h1>About Me</h1>
 <p align="">Hi 👋, I'm Mozammel Hoque Dodul</p>
