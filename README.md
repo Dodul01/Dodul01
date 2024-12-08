@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co.com/QbkdmyF/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8" border="0">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dodul01&color=brightgreen)
+
 <h1>About Me</h1>
 <p align="">Hi 👋, I'm Mozammel Hoque Dodul</p>
 <p align="">A passionate frontend developer from chittagong,Bangladesh.Who is passionate about learning new technology, doing projects and solving real world problems. I always try to do quality work .My goal is to become a MERN Stake Developer.</h3>
